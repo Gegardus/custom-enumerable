@@ -1,6 +1,8 @@
-## Custom Enumerable
+# Custom Enumerable
 
-> This project implements custom Enumerable module
+## Description
+
+> This project is about learning how to use a module inside a class.
 
 ## Built With
 
