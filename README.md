@@ -19,7 +19,9 @@ To Start the programs and tests
 - open terminal
 - run the command $irb (interactive ruby shell)
 - run the program functions
+
 OR
+
 - open terminal
 - run ruby my_list.rb
 
