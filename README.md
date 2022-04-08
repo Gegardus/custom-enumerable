@@ -15,6 +15,14 @@ Before starting the steps below, be sure you have [Git](https://www.linode.com/d
 1. Download the `Zip` or clone with `git clone https://github.com/Gegardus/custom-enumerable`
 2. `cd custom-enumerable`
 
+To Start the programs and tests
+- open terminal
+- run the command $irb (interactive ruby shell)
+- run the program functions
+OR
+- open terminal
+- run ruby my_list.rb
+
 ## Author
 
 👤 **Vahan Khachvankian**
