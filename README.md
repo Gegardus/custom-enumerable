@@ -1,6 +1,8 @@
-## Custom Enumerable
+# Custom Enumerable
 
-> This project implements custom Enumerable module
+## Description
+
+> This project is about learning how to use a module inside a class.
 
 ## Built With
 
@@ -8,12 +10,10 @@
 
 ## Getting Started
 
-- Clone this repository using git clone 
-
-- cd into the repository cd custom-enumerable
-
-- run files with ruby FILENAME
-
+To get the content of this project locally you need to run these commands in your terminal.
+Before starting the steps below, be sure you have [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/).
+1. Download the `Zip` or clone with `git clone https://github.com/Gegardus/custom-enumerable`
+2. `cd custom-enumerable`
 
 ## Author
 
@@ -33,7 +33,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Gegardus/db-from-diagram/issues).
+Feel free to check the [issues page](https://github.com/Gegardus/custom-enumerable/issues).
 
 ## Show your support
 
