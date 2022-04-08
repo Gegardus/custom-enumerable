@@ -13,7 +13,7 @@
 To get the content of this project locally you need to run these commands in your terminal.
 Before starting the steps below, be sure you have [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/).
 1. Download the `Zip` or clone with `git clone https://github.com/Gegardus/custom-enumerable`
-2. `cd Decode-Morse-Message-Ruby`
+2. `cd custom-enumerable`
 
 ## Author
 
